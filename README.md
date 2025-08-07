@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-I'm an informatics engineering student from Portugal, currently studying at the University of Aveiro. Passionate about software engineering, backend development and DevOps. Always eager to learn, collaborate, and turn ideas into functional code!<br>
+I'm a software engineering student from Portugal, currently studying at the University of Porto. Passionate about the software engineering practices, backend development and DevOps. Always eager to learn, collaborate, and turn ideas into functional code!<br>
 
 ## 📫 How to Reach Me:
 
