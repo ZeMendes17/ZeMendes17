@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-I'm a software engineering student from Portugal, currently studying at the University of Porto. Passionate about the software engineering practices, backend development and DevOps. Always eager to learn, collaborate, and turn ideas into functional code!<br>
+I'm a software engineering student from Portugal, currently studying at the University of Porto. Passionate about good software engineering practices, backend development and DevOps. I enjoy working in fast-paced, collaborative environments where I can keep learning, expand my skill set, and contribute to building impactful, real-world solutions!<br>
 
 ## 📫 How to Reach Me:
 
